@@ -39,8 +39,8 @@ Esse projeto surgiu de uma necessidade pessoal, quando no processo de revisão d
 
 1. **Clone o Repositório:**
    ```bash
-   git clone <URL_DO_REPOSITORIO>
-   cd <NOME_DO_PROJETO>
+   git clone https://github.com/Frankson18/project-rag-llm
+   cd project-rag-llm
    ```
 
 2. **Abra o DevContainer:**
@@ -101,13 +101,5 @@ A base de dados utilizada é um arquivo CSV exportado do Zotero. Certifique-se d
 1. Implementar **routing de LLMs** para permitir o uso de vários modelos além da OpenAI.
 2. Utilizar um modelo de embeddings especializado em multilinguagem e com foco no português.
 3. Aperfeiçoar a busca no sistema RAG para aumentar a precisão e relevância dos resultados.
-
-## Licença
-
-Este projeto é distribuído sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
-
----
-
-**Autor:** [Seu Nome Aqui]
 
 
