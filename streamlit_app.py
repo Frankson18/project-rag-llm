@@ -177,8 +177,8 @@ def get_retriever():
 # Configura uma interface Streamlit para interagir com o modelo e realizar perguntas com base em dados científicos.
 def configure_streamlit_interface():
 
-    st.set_page_config(page_title="Assistente")
-    st.title("Assistente RAG")
+    st.set_page_config(page_title="Assistente Acadêmico")
+    st.title("Assistente Acadêmico")
 
     msgs = StreamlitChatMessageHistory()
 
