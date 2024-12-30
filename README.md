@@ -1,6 +1,6 @@
 # Projeto LLM-RAG: Assistente acadêmico com LLM
 
-Este é um projeto para a disciplina de **TÓPICOS AVANÇADOS EM INTELIGÊNCIA COMPUTACIONAL 1** do Mestrado Profissional em Tecnologia da Informação da UFRN e implementa um chat acadêmico que auxilia pesquisadores a acessar e compreender informações sobre artigos científicos utilizando uma base de dados autoral de artigos retiras do sofware zotero. O assistente utiliza **Streamlit** como interface, **LangChain** para a construção da lógica, e **Chroma** para a indexação vetorial de dados. Além disso, o ambiente de desenvolvimento é configurado utilizando **DevContainer** e **Poetry**.
+Este é um projeto para a disciplina de **TÓPICOS AVANÇADOS EM INTELIGÊNCIA COMPUTACIONAL 1** do Mestrado Profissional em Tecnologia da Informação da UFRN e implementa um chat acadêmico que auxilia pesquisadores a acessar e compreender informações sobre artigos científicos utilizando uma base de dados autoral de artigos retiradas do sofware zotero. O assistente utiliza **Streamlit** como interface, **LangChain** para a construção da lógica, e **Chroma** para a indexação vetorial de dados. Além disso, o ambiente de desenvolvimento é configurado utilizando **DevContainer** e **Poetry**.
 
 ## Contexto
 
