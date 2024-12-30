@@ -6,6 +6,8 @@ Este é um projeto para a disciplina de **TÓPICOS AVANÇADOS EM INTELIGÊNCIA C
 
 Esse projeto surgiu de uma necessidade pessoal, quando no processo de revisão de literatura científica, me deparei com um grande número de artigos salvos em ferramentas como o Zotero para serem estudados. Porém, encontrar tópicos relevantes em meio a esse mar de artigos pode ser um desafio, especialmente quando se busca agilidade sem a necessidade de buscas profundas manuais. Este projeto aborda essa problemática ao oferecer uma solução baseada em RAG, permitindo que perguntas sejam feitas diretamente a um LLM, agilizando o trabalho de revisão e recuperação de informações relevantes.
 
+![Interface](img/interface.jpeg)
+
 ## Funcionalidades
 
 1. **Tradução Automática:**
