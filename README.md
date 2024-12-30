@@ -47,7 +47,10 @@ Esse projeto surgiu de uma necessidade pessoal, quando no processo de revisão d
    Certifique-se de que o DevContainer está configurado. Abra o projeto em um editor compatível, como VS Code, e inicialize o DevContainer.
 
 3. **Instale Dependências:**
-   O Poetry será executado automaticamente no DevContainer para instalar as dependências listadas em `pyproject.toml`.
+   ```bash
+    poetry install
+    poetry shell
+    ```
 
 4. **Configure o `.env`:**
    Crie um arquivo `.env` na raiz do projeto com as seguintes variáveis:
